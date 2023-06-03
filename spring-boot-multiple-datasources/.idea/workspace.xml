@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da1228f-7afb-4bc1-a45b-f0aa8804f311" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/spring-boot-multiple-datasources/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-multiple-datasources/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4da1228f-7afb-4bc1-a45b-f0aa8804f311" name="Changes" comment="Project commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +34,18 @@
       <option name="presentableId" value="Default" />
       <updated>1685752925139</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project commit">
+      <created>1685753290556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685753290556</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project commit" />
   </component>
 </project>
