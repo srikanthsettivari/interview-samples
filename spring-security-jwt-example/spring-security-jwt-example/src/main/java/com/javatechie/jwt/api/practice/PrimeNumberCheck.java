@@ -1,0 +1,34 @@
+package com.javatechie.jwt.api.practice;
+
+import java.util.List;
+
+public class PrimeNumberCheck {
+
+	public static void main(String[] args) {
+		System.out.println(isPrime(19)); // true
+		System.out.println(isPrime(49)); // false
+	}
+
+	public static boolean isPrime(int n) {
+		if (n == 0 || n == 1) {
+			return false;
+		}
+		if (n == 2) {
+			return true;
+		}
+		for (int i = 2; i <= n / 2; i++) {
+			if (n % i == 0) {
+				return false;
+			}
+		}
+
+		return true;
+	}
+
+	public static boolean onlyOddNumbers(List<Integer> list) {
+		return list
+				.parallelStream() // parallel stream for faster processing
+				.anyMatch(x -> x % 2 != 0); // return as soon as any elements match the condition
+	}
+
+}
