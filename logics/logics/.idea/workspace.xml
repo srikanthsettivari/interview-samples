@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78fd5704-4dff-43ed-a8dc-e5f105d95ed3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/ArraySameElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/ArraySort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/BabyDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/BinarySearchTreeExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/FactorialExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/FindRequiredChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/Java8Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/Polindrum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/PrimeNumberCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/PrintFibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/RemoveSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/RemovingSpaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/RunnableExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/SecondHighest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/StringContainsVowels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/StringPrograms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/SwapArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/SwapNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/SyncThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/TestInheritance2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/ThreadDeadlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/TwoMains.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/java8/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/java8/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/java8/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/java8/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/java8/GFGFlatMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/java8/GroupByDemoInJava8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/java8/MusicalInstrument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/java8/StreamListSorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/java8/TestMine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logics/com/practice/java8/UseComparatorcomparingMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/ArraySameElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/ArraySort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/BinarySearchTreeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/FactorialExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/FindRequiredChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/Java8Example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/Polindrum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/PrimeNumberCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/PrintFibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/RemoveSpace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/RemovingSpaces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/RunnableExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/SecondHighest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/StringContainsVowels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/StringPrograms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/SwapArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/SwapNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/ThreadDeadlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/TwoMains.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/java8/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/java8/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/java8/C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/java8/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/java8/GFGFlatMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/java8/GroupByDemoInJava8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/java8/MusicalInstrument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/java8/StreamListSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/java8/TestMine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/java8/UseComparatorcomparingMethod.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2QfneMDOAgryFETPiNVweGZafka" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Trainings/interview/InterviewSamples/logics"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ArraySameElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.ArraySameElements" />
+      <module name="logics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArraySameElements" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78fd5704-4dff-43ed-a8dc-e5f105d95ed3" name="Changes" comment="" />
+      <created>1685753599247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685753599247</updated>
+    </task>
+    <servers />
+  </component>
+</project>
